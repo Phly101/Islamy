@@ -1,0 +1,20 @@
+{
+  "appTitle": "Islami",
+  "chapterTitle": "Chapter Title",
+  "quranTab": "Quaran",
+  "hadethTab": "Hadeth",
+  "radioTab": "Radio",
+  "sebhaTab": "Sebha",
+  "hadethNum": "Hadiths",
+  "praiseNum": "Praise count",
+  "settings": "Settings",
+  "quranRadio": "Quran Radio",
+  "ayatNumber": "Ayat Number",
+  "themeTab": "Theme",
+  "languageTab": "Language",
+  "lightTab": "Light",
+  "darkTab": "Dark",
+  "englishTab": "English",
+  "arabicTab": "Arabic",
+  "search": "What Chapter do you want to read?"
+}

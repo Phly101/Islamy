@@ -1,0 +1,20 @@
+{
+  "appTitle": "اسلامي",
+  "chapterTitle": "اسم السورة",
+  "quranTab": "القرآن",
+  "hadethTab": "الحديث",
+  "radioTab": "الراديو",
+  "sebhaTab": "السبحة",
+  "hadethNum": "رقم الحديث",
+  "praiseNum": "عدد التسبيحات",
+  "settings": "الاعدادات",
+  "quranRadio": "إذاعة القرآن الكريم",
+  "ayatNumber": "عدد الايات",
+  "themeTab": "النمط",
+  "languageTab": "اللغة",
+  "lightTab": "مضيء",
+  "darkTab": "مظلم",
+  "englishTab": "الانجليزية",
+  "arabicTab": "العربية",
+  "search": "اي سورة تبحث عنها؟"
+}
